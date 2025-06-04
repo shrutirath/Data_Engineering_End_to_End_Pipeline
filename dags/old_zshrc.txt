@@ -1,0 +1,10 @@
+export PATH="/Library/Frameworks/Python.framework/Versions/3.12/bin:$PATH"
+export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"
+export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"
+export JAVA_HOME=/opt/homebrew/opt/openjdk
+export PATH="$JAVA_HOME/bin:$PATH"
+export HADOOP_HOME=/opt/homebrew/opt/hadoop
+export PATH="$HADOOP_HOME/bin:$PATH"
+export HADOOP_CONF_DIR=/opt/homebrew/opt/hadoop/libexec/etc/hadoop
+export HADOOP_HOME=/opt/homebrew/opt/hadoop/libexec
+export JAVA_HOME="/opt/homebrew/Cellar/openjdk@17/17.0.14/libexec/openjdk.jdk/Contents/Home"

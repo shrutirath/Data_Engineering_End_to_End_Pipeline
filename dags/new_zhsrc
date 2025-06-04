@@ -1,0 +1,6 @@
+export PATH="/Library/Frameworks/Python.framework/Versions/3.12/bin:$PATH"
+export JAVA_HOME="/opt/homebrew/Cellar/openjdk@17/17.0.14/libexec/openjdk.jdk/Contents/Home"
+export PATH="$JAVA_HOME/bin:$PATH"
+export HADOOP_HOME="/opt/homebrew/opt/hadoop/libexec"
+export PATH="$HADOOP_HOME/bin:$PATH"
+export HADOOP_CONF_DIR="$HADOOP_HOME/etc/hadoop"
